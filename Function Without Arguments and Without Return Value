@@ -1,0 +1,5 @@
+#Function Without Arguments and Without Return Value
+def display():
+    print("Student Name: Shravani")
+    print("Course: Python")
+display()
