@@ -1,0 +1,12 @@
+#A Function is a block of code that performs a specific task.
+#syntax-
+        def function_name():
+            # code
+
+#simple code
+ def hello():
+    print("Hello, Welcome to Python")
+
+hello()
+
+            
